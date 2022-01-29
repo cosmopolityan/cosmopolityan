@@ -1,7 +1,7 @@
 ### Hello, everyone!
 My name is Mark, I'm 27 years old.
 I'm a novice web developer (mostly frontend).
-I have been working in the financial market for 5 years.
+I have been working at the financial market for 5 years.
 I want to create something new and useful for people.
 
 ### ***
@@ -12,7 +12,8 @@ I want to create something new and useful for people.
 5 лет работаю на финансовом рынке.
 Хочу создавать что-то новое и полезное для людей.
 
-
+### Stack
+[HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmopolityan&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)

@@ -26,6 +26,7 @@ I want to create something new and useful for people.
 ![BEM](https://img.shields.io/badge/-BEM-22e9a9?style=for-the-badge&logo=bem&logoColor=000)
 ![Figma](https://img.shields.io/badge/-FIGMA-7496e0?style=for-the-badge&logo=figma&logoColor=000)
 ![GIT](https://img.shields.io/badge/-GIT-22e9a9?style=for-the-badge&logo=git&logoColor=000)
+![Webpack](https://img.shields.io/badge/-WEBPACK-7496e0?style=for-the-badge&logo=webpack&logoColor=000)
 
 
 ### Stats:

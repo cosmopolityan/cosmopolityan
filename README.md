@@ -1,7 +1,8 @@
 ### Hello, everyone!
 My name is Mark, I'm 27 years old.
 I'm a novice frontend developer.
-I have been working at the financial market for 5 years.
+I'm student at [Yandex.Praktikum - web development department](https://practicum.yandex.ru/web/). 
+I have a master's degree in finance. I have been working in the financial market since 2017.
 I want to create something new and useful for people.
 
 ### ***
@@ -9,7 +10,8 @@ I want to create something new and useful for people.
 ### Всем привет!
 Меня зовут Марк, мне 27 лет.
 Я начинающий фронтенд-разработчик.
-5 лет работаю на финансовом рынке.
+Я студент [Факультета "Веб-разработка" в Яндекс.Практикуме](https://practicum.yandex.ru/web/).
+Я магистр финансов, работаю на финансовом рынке с 2017 года.
 Хочу создавать что-то новое и полезное для людей.
 
 ### Stack:

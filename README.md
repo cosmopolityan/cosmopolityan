@@ -1,6 +1,6 @@
 ### Hello, everyone!
 My name is Mark, I'm 27 years old.
-I'm a novice web developer (mostly frontend).
+I'm a novice frontend developer.
 I have been working at the financial market for 5 years.
 I want to create something new and useful for people.
 
@@ -8,13 +8,14 @@ I want to create something new and useful for people.
 
 ### Всем привет!
 Меня зовут Марк, мне 27 лет.
-Я начинающий веб-разработчик (преимущественно фронтенд).
+Я начинающий фронтенд-разработчик.
 5 лет работаю на финансовом рынке.
 Хочу создавать что-то новое и полезное для людей.
 
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/-@mdnbit-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/mdnbit)](https://t.me/mdnbit)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0078b6?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/mark-g-front//)](https://www.linkedin.com/in/mark-g-front/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0078b6?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/mark-g-front/)](https://www.linkedin.com/in/mark-g-front/)
+[![Gmail](https://img.shields.io/badge/-cosmomrak@gmail.com-ffffff?style=for-the-badge&logo=gmail&link=mailto:cosmomrak@gmail.com)](mailto:cosmomrak@gmail.com)
 
 
 

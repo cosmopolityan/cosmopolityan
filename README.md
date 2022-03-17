@@ -12,14 +12,6 @@ I want to create something new and useful for people.
 5 лет работаю на финансовом рынке.
 Хочу создавать что-то новое и полезное для людей.
 
-### Contacts:
-[![Telegram](https://img.shields.io/badge/-@mdnbit-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/mdnbit)](https://t.me/mdnbit)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0078b6?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/mark-g-front/)](https://www.linkedin.com/in/mark-g-front/)
-[![Gmail](https://img.shields.io/badge/-cosmomrak@gmail.com-ffffff?style=for-the-badge&logo=gmail&link=mailto:cosmomrak@gmail.com)](mailto:cosmomrak@gmail.com)
-
-
-
-
 ### Stack:
 ![HTML](https://img.shields.io/badge/-HTML-7496e0?style=for-the-badge&logo=html5&logoColor=000)
 ![CSS](https://img.shields.io/badge/-CSS-22e9a9?style=for-the-badge&logo=css3&logoColor=000)
@@ -29,6 +21,10 @@ I want to create something new and useful for people.
 ![GIT](https://img.shields.io/badge/-GIT-22e9a9?style=for-the-badge&logo=git&logoColor=000)
 ![Webpack](https://img.shields.io/badge/-WEBPACK-7496e0?style=for-the-badge&logo=webpack&logoColor=000)
 
+### Contacts:
+[![Telegram](https://img.shields.io/badge/-@mdnbit-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/mdnbit)](https://t.me/mdnbit)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0078b6?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/mark-g-front/)](https://www.linkedin.com/in/mark-g-front/)
+[![Gmail](https://img.shields.io/badge/-cosmomrak@gmail.com-ffffff?style=for-the-badge&logo=gmail&link=mailto:cosmomrak@gmail.com)](mailto:cosmomrak@gmail.com)
 
 ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmopolityan&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)

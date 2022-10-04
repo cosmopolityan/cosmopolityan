@@ -28,6 +28,7 @@ I want to create something new and useful for people.
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0078b6?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/mark-g-front/)](https://www.linkedin.com/in/mark-g-front/)
 [![Gmail](https://img.shields.io/badge/-cosmomrak@gmail.com-ffffff?style=for-the-badge&logo=gmail&link=mailto:cosmomrak@gmail.com)](mailto:cosmomrak@gmail.com)
 
+<!--
 ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmopolityan&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 

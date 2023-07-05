@@ -30,9 +30,9 @@ I want to create something new and useful for people.
 
 
 ### Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmopolityan&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-78i8.vercel.app/api?username=cosmopolityan&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmopolityan&layout=compact&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-78i8.vercel.app/api/top-langs/?username=cosmopolityan&layout=compact&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![](https://komarev.com/ghpvc/?username=cosmopolityan&color=7496e0)
 -->
